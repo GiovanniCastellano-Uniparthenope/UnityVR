@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd4c6ad6358e1dd46b55781b4e988837
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - settingsmanager: {instanceID: 0}
+  - thisButton: {instanceID: 0}
+  - ITFlag: {fileID: 21300000, guid: adde736d35aacda4b98a182ceb6ea9b3, type: 3}
+  - USFlag: {fileID: 21300000, guid: e00ba9b500035a44d88a44ba82d8bdc7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
